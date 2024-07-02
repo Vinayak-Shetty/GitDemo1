@@ -15,10 +15,6 @@ public class OpenFDTest extends BaseTest{
 		OpenFD openFD = dashboard.skipCoachGuide();
 		openFD.createFD();
 		System.out.println("To test open FD....");
-		System.out.println("To test open FD....");
-		System.out.println("To test open FD....");
-		System.out.println("To test open FD....");
-		System.out.println("To test open FD....");
 		
 	}
 }
