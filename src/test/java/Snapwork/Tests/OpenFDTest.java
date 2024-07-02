@@ -14,7 +14,6 @@ public class OpenFDTest extends BaseTest{
 		Dashboard dashboard = loginScreenP.loginApplication("510284", "Idbi@123");
 		OpenFD openFD = dashboard.skipCoachGuide();
 		openFD.createFD();
-		System.out.println("To test open FD....");
 		
 	}
 }
